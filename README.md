@@ -1,6 +1,6 @@
 # Mikroforms
 
-![microforms](http://git.moscow.alfaintra.net/projects/AO_CORE/repos/ao-microforms/raw/assets/microforms.png?at=refs%2Fheads%2Fmaster)
+![microforms](https://github.com/alfa-code/microforms/blob/main/assets/microforms.png?raw=true)
 
 Библиотека позволяет создавать несколько Formik форм одновременно и получать доступ к ним через специальный объект контрола.
 
