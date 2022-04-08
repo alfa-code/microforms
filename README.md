@@ -1,4 +1,4 @@
-# Mikroforms
+# Microforms
 
 ![microforms](https://github.com/alfa-code/microforms/blob/main/assets/microforms.png?raw=true)
 
