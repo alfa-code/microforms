@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="2" failures="0" time="26.356">
+  <testsuite name="ao-tooltip variants" errors="0" failures="0" skipped="0" timestamp="2021-10-15T09:45:25" time="9.378" tests="2">
+    <testcase classname="ao-tooltip variants tooltip have cusom classname" name="ao-tooltip variants tooltip have cusom classname" time="0.11">
+    </testcase>
+    <testcase classname="ao-tooltip variants tooltip exists in body" name="ao-tooltip variants tooltip exists in body" time="0.008">
+    </testcase>
+  </testsuite>
+</testsuites>

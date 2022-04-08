@@ -1,0 +1,4 @@
+language: js
+repo_type: FrontEnd
+is_business_critical: false
+www_accessibility: true
